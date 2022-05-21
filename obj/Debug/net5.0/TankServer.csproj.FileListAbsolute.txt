@@ -1,0 +1,16 @@
+D:\Github\Unity-Training\TankServer\bin\Debug\net5.0\TankServer.exe
+d:\Github\Unity-Training\TankServer\bin\Debug\net5.0\TankServer.deps.json
+d:\Github\Unity-Training\TankServer\bin\Debug\net5.0\TankServer.runtimeconfig.json
+d:\Github\Unity-Training\TankServer\bin\Debug\net5.0\TankServer.runtimeconfig.dev.json
+D:\Github\Unity-Training\TankServer\bin\Debug\net5.0\TankServer.dll
+d:\Github\Unity-Training\TankServer\bin\Debug\net5.0\ref\TankServer.dll
+D:\Github\Unity-Training\TankServer\bin\Debug\net5.0\TankServer.pdb
+D:\Github\Unity-Training\TankServer\obj\Debug\net5.0\TankServer.csproj.AssemblyReference.cache
+D:\Github\Unity-Training\TankServer\obj\Debug\net5.0\TankServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Unity-Training\TankServer\obj\Debug\net5.0\TankServer.AssemblyInfoInputs.cache
+D:\Github\Unity-Training\TankServer\obj\Debug\net5.0\TankServer.AssemblyInfo.cs
+D:\Github\Unity-Training\TankServer\obj\Debug\net5.0\TankServer.csproj.CoreCompileInputs.cache
+D:\Github\Unity-Training\TankServer\obj\Debug\net5.0\TankServer.dll
+D:\Github\Unity-Training\TankServer\obj\Debug\net5.0\ref\TankServer.dll
+D:\Github\Unity-Training\TankServer\obj\Debug\net5.0\TankServer.pdb
+d:\Github\Unity-Training\TankServer\obj\Debug\net5.0\TankServer.genruntimeconfig.cache
